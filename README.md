@@ -9,3 +9,4 @@
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/JustinSNHU/FunTextBasedGame.svg?style=for-the-badge
+[contributors-url]: https://github.com/JustinSNHU/FunTextBasedGame/graphs/contributors
